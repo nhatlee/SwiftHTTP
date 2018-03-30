@@ -1,3 +1,1 @@
-# sssfun
-
-A description of this package.
+# Using the Swift Server API 0.1.0
